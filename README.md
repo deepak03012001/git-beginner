@@ -1,4 +1,4 @@
-#emo git repository
+#demo git repository
 
 first line in this repo
 
